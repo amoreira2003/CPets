@@ -1,0 +1,6 @@
+name: cPets
+version: '1.0-SNAPSHOT'
+main: com.cpets.main
+api-version: 1.19
+commands:
+  pet:

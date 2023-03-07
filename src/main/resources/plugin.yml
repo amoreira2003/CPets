@@ -1,0 +1,6 @@
+name: cPets
+version: '${project.version}'
+main: com.cpets.main
+api-version: 1.19
+commands:
+  pet:
