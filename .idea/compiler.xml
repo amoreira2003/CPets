@@ -9,8 +9,5 @@
         <module name="cpets" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="cpets" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
